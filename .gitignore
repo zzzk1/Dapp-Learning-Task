@@ -1,28 +1,28 @@
 */node_modules
-**/.env
-**/sk.txt
-**/env.py
-**/sk*.txt
-**/sk*.json
-**/__pycache__
-**/Uniswap
-**/package-lock.json
+*/.env
+*/sk.txt
+*/env.py
+*/sk*.txt
+*/sk*.json
+*/__pycache__
+*/Uniswap
+*/package-lock.json
 # dependencies
 /node_modules
 /.pnp
 .pnp.js
 */cache
-**/database.db
-**/contract-address.json
-**/node_modules
-**/*.bytecode.js
-**/*.abi.js
-**/*.address.js
-**/yarn.lock
-**/artifacts
-**/cache
-**/debug
-**/target
+*/database.db
+*/contract-address.json
+*/node_modules
+*/*.bytecode.js
+*/*.abi.js
+*/*.address.js
+*/yarn.lock
+*/artifacts
+*/cache
+*/debug
+*/target
 
 # testing
 coverage
